@@ -8,9 +8,9 @@ dash = "*"
 plotly = "*"
 pandas = "*"
 
-
 [dev-packages]
 yapf = "*"
+pylint = "*"
 
 [requires]
 python_version = "3.8"
